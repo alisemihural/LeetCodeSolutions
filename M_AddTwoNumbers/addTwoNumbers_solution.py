@@ -55,5 +55,4 @@ class Solution(object):
             currentl3 = currentl3.next
         
         return headl3
-        
-
+    
